@@ -7,7 +7,7 @@
 -------
 
 # Projeto artigo técnico gerado por I.A.s
-[Github copilot + PL/SQL Uma Revolução no Desenvolvimento](https://web.dio.me/articles/github-copilot-plsql-uma-revolucao-no-desenvolvimento?back=%2Farticles&open-modal=true&page=1&order=oldest)
+[Conhecendo o GitHub Actions para Automatizar Pull Requests](https://web.dio.me/articles/conhecendo-o-github-actions-para-automatizar-pull-requests?back=%2Farticles&open-modal=true&page=1&order=oldest)
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -21,7 +21,7 @@
 
 ChatGPT
 
-Leonardo.ai
+Leonardo.ai 
 
 ## ✨ Features
 
